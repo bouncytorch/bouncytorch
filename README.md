@@ -7,6 +7,6 @@ Contact me on whatever social media you found be on, be that <a href="https://tw
 <sub>Check out my portfolio projects: https://github.com/bouncytorch?tab=repositories</sub>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,mysql,mongodb&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,vue,mysql,mongodb&theme=light" />
   </a>
 </p>
