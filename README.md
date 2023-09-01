@@ -2,7 +2,7 @@
 <h2>About me</h2>
 
 I'm bouncytorch - a middle backend & frontend node.js dev.
-Contact me on whatever social media you found be on, be that <a href="https://twitter.com/bouncytorch">Twitter</a> or a freelance account or via <a href="mailto:bouncytorch@gmail.com">email</a>.
+Contact me via a freelance account or <a target="_blank" href="https://bouncytorch.xyz/mail">email</a>.
 
 <sub>Check out my portfolio projects: https://github.com/bouncytorch?tab=repositories</sub>
 <p align="center">
